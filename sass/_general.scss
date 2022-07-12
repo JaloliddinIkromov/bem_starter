@@ -1,0 +1,22 @@
+html{ 
+
+    scroll-behavior: smooth;
+    } 
+    
+    *, 
+    *::after, 
+    *::before { 
+    box-sizing: border-box;
+    }
+     
+    body{ 
+    margin: 0; 
+    font-family:"Arial",sans-serif; 
+    } 
+    img{ 
+    max-width: 100%;
+    height: auto; 
+    vertical-align: middle; 
+    object-fit: cover;
+    } 
+    
